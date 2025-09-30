@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Apple Fritter
 Avocado
+=======
+Gone With The Wind
+Downsizing
+Raiders Of The Lost Ark
+>>>>>>> movies
